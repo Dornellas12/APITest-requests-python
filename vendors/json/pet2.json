@@ -1,0 +1,18 @@
+{
+  "id": 410504,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Caramelinho",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Vacinado"
+    }
+  ],
+  "status": "Vendido"
+}
