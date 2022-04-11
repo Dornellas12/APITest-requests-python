@@ -1,0 +1,6 @@
+pet_id,category_id,category_name,name,tags_id,tags_name,status,status_code
+950401,1,dog,porpetinha,1,vacinado,disponivel,200
+950402,2,cat,maggie,2,castrado,vendido,200
+950403,3,fish,Nemo,0,,disponivel,200
+950404,2,cat,mingau,1,vacinado,disponivel,200
+950405,1,dog,scooby,1,vacinado,vendido,200
